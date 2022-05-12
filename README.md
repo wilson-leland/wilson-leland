@@ -2,6 +2,8 @@
 
 ### Welcome - this profile is currently a work-in-progress. Stay tuned for updates!
 
+![](https://visitor-badge.glitch.me/badge?page_id=wilson-leland.wilson-leland)
+
 <!--
 **wilson-leland/wilson-leland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
