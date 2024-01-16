@@ -2,9 +2,9 @@
 
 ### Welcome - this profile is currently a work-in-progress. Stay tuned for updates!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-leland/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-leland/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wilson-leland.wilson-leland)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wilson-leland.wilson-leland) -->
 
 <!--
 **wilson-leland/wilson-leland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
